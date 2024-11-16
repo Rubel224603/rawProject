@@ -214,6 +214,74 @@
     margin-top: 10px;
 }
 
+/*Service*/
+.service {
+    background: #EEFBFF;
+}
+
+.serviceContainer {
+    display: flex;
+    gap: 34px;
+    padding: 40px 6px 0px 0px;
+    /* margin-top: 129px; */
+    justify-content: space-between;
+}
+
+.col1 {
+    /* text-align: center; */
+    border: 1px solid gray;
+    display: flex;
+    border-radius:5px;
+    background-color: #EAE5F9;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.col1 img {
+    /* height: 86%; */
+    /* width: 54%; */
+}
+
+.cardImage {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: white;
+    border-radius: 100%;
+    height: 90px;
+    margin: 0 auto;
+    width: 120px;
+    margin-top: 47px;
+}
+
+.cardText {
+    margin-top: 25px;
+    text-align: center;
+
+}
+.cardText h1{
+    margin-top: 28px;
+    font-family: monospace;
+    margin-bottom: 10px;
+}
+.cardText p{
+    font-family: sans-serif;
+    /* margin-top: 28px; */
+    font-size: 17px;
+    /* font-weight: lighter; */
+    line-height: 29px;
+    margin-bottom: 10px;
+    color:gray;
+}
+
+
+
+
+
+
+
+
 
 
 
